@@ -1,0 +1,8 @@
+Segment,Frames,Potholes,Avg Size (px²),Density,Quality Score,Quality Label
+0,50,3,54210,0.0600,3.50,Very Poor
+1,50,1,63346,0.0200,2.50,Fair
+2,50,3,60200,0.0600,3.50,Very Poor
+3,50,1,78219,0.0200,2.50,Fair
+4,50,2,10349,0.0400,2.50,Fair
+5,50,3,29057,0.0600,3.50,Very Poor
+6,35,0,101698,0.0000,1.50,Fair

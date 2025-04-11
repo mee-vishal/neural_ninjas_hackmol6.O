@@ -1,0 +1,21 @@
+Road Quality Assessment Summary
+=============================
+
+Video Analyzed: 4.mp4
+Date/Time: 2025-04-10 19:04:05
+
+Total Frames Analyzed: 335
+Total Road Segments: 7
+Total Potholes Detected: 13
+
+Overall Road Quality: Poor (Score: 2.79/4.00)
+
+Segment Breakdown:
+=================
+Segment 1: Very Poor (Score: 3.50, Potholes: 3, Density: 0.0600)
+Segment 2: Fair (Score: 2.50, Potholes: 1, Density: 0.0200)
+Segment 3: Very Poor (Score: 3.50, Potholes: 3, Density: 0.0600)
+Segment 4: Fair (Score: 2.50, Potholes: 1, Density: 0.0200)
+Segment 5: Fair (Score: 2.50, Potholes: 2, Density: 0.0400)
+Segment 6: Very Poor (Score: 3.50, Potholes: 3, Density: 0.0600)
+Segment 7: Fair (Score: 1.50, Potholes: 0, Density: 0.0000)
