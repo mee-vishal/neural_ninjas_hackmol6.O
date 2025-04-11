@@ -15,6 +15,20 @@ Road infrastructure plays a crucial role in public safety. Our system automates 
 - 📊 Track detected potholes across frames
 - 🧮 Score road quality based on density, area, and location of potholes
 
+## ❓ Why This Project?
+
+Potholes and damaged roads are a major concern in both urban and rural areas, leading to vehicle damage, accidents, and decreased road safety. Manual road inspections are time-consuming, inconsistent, and resource-intensive.
+
+This project aims to **automate the process of road quality analysis** using computer vision and deep learning. By leveraging YOLOv8's powerful object detection capabilities, our system can:
+
+- Detect potholes accurately from videos or real-time camera feeds
+- Estimate the **area of damage** and track its location
+- Generate a **road quality score** to help authorities prioritize maintenance
+- Enable **scalable and efficient monitoring** across large road networks
+
+By combining AI with real-world impact, this project serves as a step toward smarter cities and safer infrastructure.
+
+
 ---
 
 ## 🛠 Tech Stack
