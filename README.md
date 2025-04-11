@@ -74,14 +74,7 @@ ml code/yolov8-roadpothole-detection-main/yolov8_instance_segmentation_on_custom
 
 ### 📂 Folder Structure
 .
-├── ml code/
-│   ├── yolov8-roadpothole-detection-main/
-│   │   ├── yolov8_instance_segmentation_on_custom_dataset.ipynb
-├── assets/
-│   └── sample images for demo
-├── README.md
-└── requirements.txt
-
+neural_ninjas_hackmol6.O/ ├── ml code/ │ └── yolov8-roadpothole-detection-main/ │ └── yolov8_instance_segmentation_on_custom_dataset.ipynb ├── assets/ │ └── sample images for demo ├── README.md └── requirements.txt
 
 
 ### 💡 Future Improvements
